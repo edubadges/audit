@@ -21,6 +21,7 @@ For other issues we use the following classifications:
 | Name | Purpose |
 | --- | --- |
 | bug-infrastructure | Infrastructural issues |
+| bug-legal | Legal issues |
 | enhancement-infrastructure | Infrastructural enhancements |
 | enhancement-software | Enhancement to software |
 
