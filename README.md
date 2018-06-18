@@ -13,7 +13,7 @@ For security related issues we use the following classifications:
 | bug-security-severe (red) | Severe risk |
 | bug-security-high (orange) | High risk |
 | bug-security-elevated (yellow | Significant risk |
-| bug-security-guarded (blue) | General risk |
+| bug-security-moderate (blue) | General risk |
 | bug-security-low (green) | Low risk |
 
 For other issues we use the following classifications:
