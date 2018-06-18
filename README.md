@@ -17,7 +17,8 @@ For security related issues we use the following classifications:
 | bug-security-low (green) | Low risk |
 
 For other issues we use the following classifications:
-| Name | Risk level |
+
+| Name | Purpose |
 | --- | --- |
 | bug-infrastructure | Infrastructural issues |
 | enhancement-infrastructure | Infrastructural enhancements |
