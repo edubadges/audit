@@ -22,6 +22,7 @@ For other issues we use the following classifications:
 | --- | --- |
 | bug-infrastructure | Infrastructural issues |
 | bug-legal | Legal issues |
+| bug-functionality | Abuse of functionality |
 | enhancement-infrastructure | Infrastructural enhancements |
 | enhancement-software | Enhancement to software |
 
