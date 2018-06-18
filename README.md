@@ -20,9 +20,10 @@ For other issues we use the following classifications:
 
 | Name | Purpose |
 | --- | --- |
-| bug-infrastructure | Infrastructural issues |
-| bug-legal | Legal issues |
-| bug-functionality | Abuse of functionality |
+| bug-infrastructure (pink) | Infrastructural issues |
+| bug-legal (teal) | Legal issues |
+| bug-functionality (purple) | Abuse of functionality |
+| bug-performance (lime) | Performance degradation |
 | enhancement-infrastructure | Infrastructural enhancements |
 | enhancement-software | Enhancement to software |
 
