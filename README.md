@@ -10,11 +10,18 @@ For security related issues we use the following classifications:
 
 | Name | Risk level |
 | --- | --- |
-| Severe (red) | severe risk |
-| High (orange) | high risk |
-| Elevated (yellow | Significant risk |
-| Guarded (blue) | General risk |
-| Low (green) | low risk |
+| bug-security-severe (red) | Severe risk |
+| bug-security-high (orange) | High risk |
+| bug-security-elevated (yellow | Significant risk |
+| bug-security-guarded (blue) | General risk |
+| bug-security-low (green) | Low risk |
+
+For other issues we use the following classifications:
+| Name | Risk level |
+| --- | --- |
+| bug-infrastructure | Infrastructural issues |
+| enhancement-infrastructure | Infrastructural enhancements |
+| enhancement-software | Enhancement to software |
 
 # June 2018 Audit
 The first comprehensive audit was done in june 2018. The whole Badgr code (excluding most dependencies), SURFnet's additions to it, the Open Badge concept/implementation of the specification and the development environment of SURFnet were part of the audit. Through static analysis and dynamic analysis, issues were found. 
