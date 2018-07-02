@@ -3,7 +3,7 @@ All audit related information such as reports, issues, history etc. will be plac
 # History
 | Date | Audit target | Auditor |
 | --- | --- | --- |
-| June 2018 | Badgr (static/dynamic) and badges | Radically Open Security |
+| June 2018 | Badgr (static/dynamic on both SURFnet repos) and badges | Radically Open Security |
 
 # Legend
 For security related issues we use the following labels for risks:
